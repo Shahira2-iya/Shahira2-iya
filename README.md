@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I am a Business Management with IT student passionate about integrating technology and management strategies to drive innovation and efficiency. With a blend of technical skills and business acumen, I enjoy solving complex problems and collaborating on impactful projects.
 
-<!--
-**Shahira2-iya/Shahira2-iya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests:
+- **Programming & Development**: Java, C++, HTML, PHP  
+- **Data Management**: Excel (Advanced)  
+- **Marketing**: Strategy & Analysis  
+- **Soft Skills**: Collaboration and Teamwork  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Currently Learning:
+- Advanced Web Development  
+- Data-Driven Marketing Strategies  
+
+
+## 🌟 Fun Fact:
+I thrive at the intersection of technology and business, where I can use my technical skills to create innovative solutions and bring them to market effectively.
+
