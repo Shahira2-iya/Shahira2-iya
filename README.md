@@ -16,3 +16,7 @@
 ## 🌟 Fun Fact:
 I thrive at the intersection of technology and business, where I can use my technical skills to create innovative solutions and bring them to market effectively.
 
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahira2-iya&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Shahira2-iya&theme=radical&hide_border=true)  
